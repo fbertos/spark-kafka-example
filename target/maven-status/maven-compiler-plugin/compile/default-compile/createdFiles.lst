@@ -1,0 +1,3 @@
+org/fbertos/spark/Schema.class
+org/fbertos/spark/Message.class
+org/fbertos/spark/SparkKafkaStreamingProgram.class
